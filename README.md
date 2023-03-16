@@ -34,4 +34,4 @@ The goal is to predict, thanks to some variables such as the left side height, t
 
 ### Contributions
 
-This project is a close project. In conclusion, no external contributions are allowed.
+This project is a closed project. In conclusion, no external contributions are allowed.
