@@ -17,21 +17,21 @@ This repository is a machine learning project (school project). Datas are analyz
 The chosen dataset is : Fake bills Data Set</br>
 The goal is to predict, thanks to some variables such as the left side height, the right side height etc., if a bill is fake or not.
 
-### Built With
+## Built With
 
 * [Python](https://www.python.org)
 
-### Pre-requisities
+## Pre-requisities
 
 * [Jupyter](https://jupyter.org)
 
-### Collaborations
+## Collaborations
 
 * [PCK](https://github.com/PritamCharles) (Owner of the repository)
 * [Kamisan65](https://github.com/Kamisan65)
 * [Unknowncaberu](https://github.com/Unknowncaberu)
 * Evan Garcia
 
-### Contributions
+## Contributions
 
 This project is a closed project. In conclusion, no external contributions are allowed.
