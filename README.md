@@ -3,19 +3,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <a href="https://github.com/PritamCharles/ML-Fake-bills-Dataset.git">
-    <img src="readme-images/bills_illustration.png" alt="Logo" width="160" height="100">
+    <a href="">
+    <img src="readme-images/income_illustration.png" alt="Logo" width="160" height="100">
   </a>
 
-<h3 align="center">Machine Learning - Fake Bills data set</h3>
+<h3 align="center">Machine Learning - Adult income dataset</h3>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository is a machine learning project (school project). Datas are analyzed and learning modeles are applied on a defined dataset in order to answer a question / problematic.</br></br>
-The chosen dataset is : Fake bills Data Set</br>
-The goal is to predict, thanks to some variables such as the left side height, the right side height etc., if a bill is fake or not.
+This repository is a machine learning project datas are analyzed and learning modeles are applied on a defined dataset in order to answer a question / problematic.</br></br>
+The chosen dataset is : Adult Income Dataset</br>
+It deals with the indivuals annual income results from various factors. The goal, here, is to predict, according to some factors, if an individual could get more than $50K per year.
 
 ## Built With
 
