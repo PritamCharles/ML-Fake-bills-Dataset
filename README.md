@@ -27,7 +27,7 @@ It deals with the indivuals annual income results from various factors. The goal
 
 ## Collaborations
 
-* [PCK](https://github.com/PritamCharles) (Owner of the repository)
+* [Pritam Kantane](https://github.com/PyyLog) (Owner of the repository)
 * [Kamisan65](https://github.com/Kamisan65)
 * [Unknowncaberu](https://github.com/Unknowncaberu)
 * Evan Garcia
